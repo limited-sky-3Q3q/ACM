@@ -1,7 +1,7 @@
 /************************************************
  * Auther        : SR
- * Date          : 2022-05-31 15:05:16
- * LastEditTime  : 2022-05-31 15:06:28
+ * Date          : 2022-04-29 18:38:04
+ * LastEditTime  : 2022-04-29 18:38:04
 ************************************************/
 #include<cstdio>
 #include<cstring>
@@ -21,6 +21,6 @@ typedef long long ll;
 
 
 int main(){
-printf("%ld\n",__cplusplus);
+	
 	return 0;
 }
